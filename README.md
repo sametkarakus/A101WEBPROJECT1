@@ -1,6 +1,6 @@
 # A101WEBPROJECT1
 ## Uçtan uca ödeme ekranına kadar test otomasyon projesi
-** Uçtan uca ödeme ekranına kadar Selenium’da java dili ile chrome browser kullanarak test otomasyon ödevi yapılacak. *
+### Uçtan uca ödeme ekranına kadar Selenium’da java dili ile chrome browser kullanarak test otomasyon ödevi yapılacak. 
 - Senaryoya üye kaydı oluşturmadan devam edilecek.
 - Giyim--> Aksesuar--> Kadın İç Giyim-->Dizaltı Çorap bölümüne girilir.
 - Açılan ürünün siyah olduğu doğrulanır.
